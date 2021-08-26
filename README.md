@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricard Perez</h1>
-<h3 align="center">A passionate full stack developer from Venezule</h3>
+<h3 align="center">A passionate full stack developer from Venezuela</h3>
 
 - 🌱 I’m currently learning **blockchain**
 
